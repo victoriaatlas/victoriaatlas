@@ -1,4 +1,3 @@
-### Hello Word!! sou Victoria Atlas✨
-
+### Hello Word!! eu sou Vic :sun_with_face:
 
 
