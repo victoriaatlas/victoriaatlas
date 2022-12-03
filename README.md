@@ -1,7 +1,7 @@
 ## Hello Word!! eu sou Victória Atlas!! :sun_with_face:
 
 ### Sobre mim:
-* Tenho 20 anos, sou Desenvolvedora Full Stack :computer:
+* Tenho 21 anos, sou Desenvolvedora Full Stack :computer:
 * Moro em Boa Vista - Roraima 
 * Atualmente estudando NoSql dentro do Módulo de Back-End na [Trybe](https://www.betrybe.com/)
 
