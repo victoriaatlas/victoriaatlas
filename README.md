@@ -3,7 +3,8 @@
 ### Sobre mim:
 * Tenho 21 anos, sou Desenvolvedora Full Stack :computer:
 * Moro em Boa Vista - Roraima 
-* Atualmente estudando NoSql dentro do Módulo de Back-End na [Trybe](https://www.betrybe.com/)
+* Recém formada na [Trybe](https://www.betrybe.com/)
+* Apaixonada por arte e tecnologia
 
 - - - -
 
