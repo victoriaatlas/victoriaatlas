@@ -4,6 +4,7 @@
 * Tenho 21 anos, sou Desenvolvedora Full Stack :computer:
 * Moro em Boa Vista - Roraima 
 * Recém formada na [Trybe](https://www.betrybe.com/)
+* Atualmente estudante de Engenharia de Software
 * Apaixonada por arte e tecnologia
 
 - - - -
