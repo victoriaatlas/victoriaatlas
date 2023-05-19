@@ -1,4 +1,6 @@
-## Hello Word!! eu sou Victória Atlas!! :sun_with_face:
+## "Hello Word"
+
+eu sou Victória Atlas!! :sun_with_face:
 
 ### Sobre mim:
 * Tenho 21 anos, sou Desenvolvedora Full Stack :computer:
