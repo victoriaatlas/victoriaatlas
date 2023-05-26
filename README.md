@@ -5,7 +5,7 @@ eu sou Victória Atlas!! :sun_with_face:
 ### Sobre mim:
 * Tenho 21 anos, sou Desenvolvedora Full Stack :computer:
 * Moro em Boa Vista - Roraima 
-* Recém formada na [Trybe](https://www.betrybe.com/)
+* Formada pela [Trybe](https://www.betrybe.com/) (2021-2022)
 * Atualmente estudante de Engenharia de Software
 * Apaixonada por arte e tecnologia
 
